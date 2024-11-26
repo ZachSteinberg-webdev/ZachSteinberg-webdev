@@ -33,6 +33,7 @@ Thank you for stopping by, and I look forward to the opportunity to put my skill
 
 ## 👨‍🎓 Currently learning:
 - As I search for my first web development job, I am also continuing to dive deeper into the world of React.js, continuing to sharpen my skills!
+- Additionally, I am beginning to learn TypeScript in order to developer more secure and robust code.
 
 👋 Thanks for stopping by and please reach out to me if you have an opportunity for which you think I would be a fitting candidate! :)
 
