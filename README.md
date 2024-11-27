@@ -31,9 +31,10 @@ Thank you for stopping by, and I look forward to the opportunity to put my skill
 ## 💪 Currently in development:
 - I'm currently working on a 🎶 beat machine 🥁 web application using React.js. It will deployed online once it is ready for production!
 
-## 👨‍🎓 Currently learning:
-- As I search for my first web development job, I am also continuing to dive deeper into the world of React.js, continuing to sharpen my skills!
-- Additionally, I am beginning to learn TypeScript in order to developer more secure and robust code.
+## 👨‍🎓 Post-bootcamp learning:
+- Furthering my React.js skills
+- Learning TypeScript in order to developer more secure and robust code
+- Learning Tailwind CSS in order to increase my abilities in the world of CSS and front-end development
 
 👋 Thanks for stopping by and please reach out to me if you have an opportunity for which you think I would be a fitting candidate! :)
 
