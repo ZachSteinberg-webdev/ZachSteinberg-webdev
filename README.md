@@ -2,8 +2,6 @@
 
 ![GitHub profile masthead banner](https://github.com/ZachSteinberg-webdev/ZachSteinberg-webdev/blob/a2bc86a9182022cb667f017b3cf79b47b1e4e7a2/GitHub_readme_banner-reduced.png)
 
-https://github.com/ZachSteinberg-webdev/ZachSteinberg-webdev/blob/a2bc86a9182022cb667f017b3cf79b47b1e4e7a2/GitHub_readme_banner-reduced.png
-
 ## 👨‍💻 About Me:
 
 I'm a newly-minted web developer, ready for anything I can sink my teeth into. I have a passion for creativity, and I truly enjoy applying that passion toward web development with the goal of crafting beautiful and user-friendly websites.
