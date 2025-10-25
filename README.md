@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Hi there and welcome to my GitHub profile!
 
-![GitHub profile masthead banner](https://github.com/ZachSteinberg-webdev/ZachSteinberg-webdev/blob/a2bc86a9182022cb667f017b3cf79b47b1e4e7a2/GitHub_readme_banner-reduced.png)
+![GitHub profile masthead banner](https://raw.githubusercontent.com/ZachSteinberg-webdev/ZachSteinberg-webdev/main/GitHub_readme_banner-reduced.png)
 
 ## 👨‍💻 About Me:
 
