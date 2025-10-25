@@ -64,19 +64,19 @@ If you’re hiring for web dev or web-adjacent work and want someone who ships, 
 
 ## 👷 Projects (live and deployed)
 
-- Personal Portfolio Website - https://www.zachsteinberg.com
+- Personal Portfolio Website - https://www.zachsteinberg.com  
   A responsive portfolio site built with Node.js, Express.js, EJS templates, and MongoDB/Mongoose. Includes a contact form with layered spam defense.   
 
-- Get It Done! - https://www.get-it-done.app/
+- Get It Done! - https://www.get-it-done.app/  
   A responsive to-do list web app with a skeuomorphic interface and an embedded, movable basic-function calculator. Built for clarity and zero-friction daily use.  
 
-- Game Box - https://www.game-box.app/
+- Game Box - https://www.game-box.app/  
   A collection of three mini-games running inside a custom fake desktop environment styled after early Aqua-era Mac OS X. Movable/resizable windows, a menu bar, a dock, a Force Quit menu, and more.  
 
-- Did I Watch That?!?! - https://www.did-i-watch-that.app/
+- Did I Watch That?!?! - https://www.did-i-watch-that.app/  
   A simple TV show tracker with a focus on fast, obvious UI instead of clutter. Search shows (via a third-party API), log what you’ve watched, and keep your watch history organized.  
 
-- Gimme The Beats - https://www.gimme-the-beats.app/
+- Gimme The Beats - https://www.gimme-the-beats.app/  
   A browser-based beat machine / drum pattern builder. Tap in patterns, layer sounds, adjust tempo, and save ideas you can come back to later. 
 
 ## 💡 What’s next
