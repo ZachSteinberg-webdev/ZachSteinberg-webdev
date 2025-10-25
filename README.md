@@ -1,42 +1,93 @@
-## 🙋‍♂️ Hi there and welcome to my GitHub profile!
+## 🙋‍♂️ Hi there, welcome to my GitHub.
 
 ![GitHub profile masthead banner](https://raw.githubusercontent.com/ZachSteinberg-webdev/ZachSteinberg-webdev/main/GitHub_readme_banner-reduced.png)
 
-## 👨‍💻 About Me:
+## 👨‍💻 About me
 
-I'm a newly-minted web developer, ready for anything I can sink my teeth into. I have a passion for creativity, and I truly enjoy applying that passion toward web development with the goal of crafting beautiful and user-friendly websites.
-I see every bit of code I write as an opportunity to build something interesting, engaging, exciting and/or fun. In my opinion, a project isn't complete unless it is user-friendly, serves its intended purpose(s), and looks good while doing it. With an eye for design and a zest for solving complex problems, I strive to create seamless and responsive digital experiences.
+I build responsive, user-friendly web apps using modern JavaScript tooling. I care a lot about clean UI, clear user flow, and making things feel good to interact with.
 
-My journey into the world of web development began a couple years ago. Since I received my first computer at thirteen years old, I have always wanted to know how to make websites. After college, I went to work in the real estate sector, however after moving with my wife from my hometown to a new market and finding myself at a point where I had essentially hit a reset switch on that career, I decided it would be a good opportunity to make a change and pursue web development as a new career. Since I began learning, I haven't looked back or regretted my choice. In fact, my only real regret is that I didn't go down this path sooner. C'est la vie!
+I started learning full-stack development after changing careers out of real estate. I’d always wanted to know how the web actually worked, and once I finally sat down and started building, I didn’t stop. Since then I’ve designed and shipped multiple working apps from scratch (frontend, backend, data layer, deployment) and I’m actively looking for opportunities to keep doing this professionally.
 
-I greatly enjoy constructing the user-facing portion of a website using HTML, CSS and JavaScript, however I also understand the back-end needs of a modern website, making use of MongoDB as well as its ancillary technologies such as Mongoose to build robust and scalable web applications and databases, to provide a rich, full-fledged experience for users of a website.
+I enjoy working on the frontend (TypeScript / JavaScript, React, Next.js, HTML, CSS, Tailwind) and I also build and connect the backend (Node.js, Express, MongoDB with Mongoose, auth with JWT / Passport.js / bcryptjs) so features actually work and persist. I like solving real problems, not just putting together pretty demos.
 
-I am a people-person and look forward to working closely with clients and cross-functional teams to transform ideas into tangible, engaging digital solutions. Whether it's revamping an existing website or starting from scratch, I approach each project with enthusiasm and a commitment to delivering high-quality results. I'm always open to new challenges and eager to contribute my skills to projects that make a positive impact.
+Outside of code, I’m usually on the trail backpacking with my wife, hunting for something good to eat around the Portland metro area, or drinking a not-too-hot cup of hot chocolate.
 
-In addition to my technical skills, I value clean and efficient code, adhering to best practices and industry standards. I believe that great code is not only functional but also easy to understand and maintain.
+If you’re hiring for web dev or web-adjacent work and want someone who ships, reach out to me on LinkedIn or at zach@zachsteinberg.com.
 
-When I'm not coding, you can find me on the trail, multi-day backpacking with my wife or enjoying a quick day-trip outing, exploring the many delicious culinary options around the Greater Portland Metro Area, or simply indulging in a good, warm (not too hot!) cup of hot chocolate.
+## 🧰 Tech I work with
 
-Thank you for stopping by, and I look forward to the opportunity to put my skills to use toward you or your company's next web development project! Please reach out via the contact form below if you would like to talk, or just to learn more about me. :)
+- Frontend:
+  - TypeScript, JavaScript, React, Next.js
+  - HTML5, CSS3, Tailwind CSS, Bootstrap
+  - Component-driven UI, state management patterns, responsive web design, accessibility (a11y), cross-browser testing
 
-## 🌎 Find me on the web:
-- On LinkedIn @ [https://www.linkedin.com/in/zachsteinbergwebdev/](https://www.linkedin.com/in/zachsteinbergwebdev/)
-- At my developer's portfolio website: [https://www.ZachSteinberg.com](https://www.ZachSteinberg.com)
+- Backend:
+  - Node.js, Express.js
+  - Input validation, error handling, simple REST endpoints
 
-## 👷 Or check out one the web applications I've built:
-- Get It Done!, a skeuomorphic to-do list app with a built-in calculator @ [https://www.get-it-done.app/](https://www.get-it-done.app)
-- Game Box, a collection of three mini-games within a mock Aqua OS X environment (my personal favorite OS X design scheme) @ [https://www.game-box.app/](https://www.game-box.app)
-- Did I Watch That?!?!, a simple watched TV show tracking app with a focus on simple GUI design and usability @ [https://www.did-i-watch-that.app/](https://www.did-i-watch-that.app)
+- Data & Auth:
+  - MongoDB, Mongoose
+  - SQL / PostgreSQL
+  - JSON Web Tokens (JWT), Passport.js, bcryptjs
+  - Session / login flows, basic authorization
 
-## 💪 Currently in development:
-- I'm currently working on a 🎶 beat machine 🥁 web application using React.js. It will deployed online once it is ready for production!
+- APIs & App Behavior:
+  - REST / HTTP / JSON
+  - Axios for client/server requests
+  - React Router for client-side routing
+  - Web Audio API for interactive sound
 
-## 👨‍🎓 Post-bootcamp learning:
-- Furthering my React.js skills
-- Learning TypeScript in order to developer more secure and robust code
-- Learning Tailwind CSS in order to increase my abilities in the world of CSS and front-end development
+- Tooling & Workflow:
+  - Git, GitHub, npm
+  - Vite, Webpack
+  - Chrome DevTools, VS Code, Postman
 
-👋 Thanks for stopping by and please reach out to me if you have an opportunity for which you think I would be a fitting candidate! :)
+- Deployment & Infra:
+  - Cloudflare Pages and Heroku-style Node hosting
+  - DNS, TLS/SSL, CDNs
+
+- Other:
+  - Python
+  - WordPress content updates
+  - EJS templating
+  - Figma for layout and interface planning
+
+- Core Skills:
+  - Debugging, QA checklists, documentation
+  - Problem solving, communication, teamwork, organization, project management
+
+## 🌐 Find me
+
+- LinkedIn: https://www.linkedin.com/in/zachsteinberg-webdev/
+- Portfolio: https://www.zachsteinberg.com
+- Email: zach@zachsteinberg.com
+
+## 👷 Projects (live and deployed)
+
+- Personal Portfolio Website - https://www.zachsteinberg.com
+  A responsive portfolio site built with Node.js, Express.js, EJS templates, and MongoDB/Mongoose. Includes a contact form with layered spam defense.   
+
+- Get It Done! - https://www.get-it-done.app/
+  A responsive to-do list web app with a skeuomorphic interface and an embedded, movable basic-function calculator. Built for clarity and zero-friction daily use.  
+
+- Game Box - https://www.game-box.app/
+  A collection of three mini-games running inside a custom fake desktop environment styled after early Aqua-era Mac OS X. Movable/resizable windows, a menu bar, a dock, a Force Quit menu, and more.  
+
+- Did I Watch That?!?! - https://www.did-i-watch-that.app/
+  A simple TV show tracker with a focus on fast, obvious UI instead of clutter. Search shows (via a third-party API), log what you’ve watched, and keep your watch history organized.  
+
+- Gimme The Beats - https://www.gimme-the-beats.app/
+  A browser-based beat machine / drum pattern builder. Tap in patterns, layer sounds, adjust tempo, and save ideas you can come back to later. 
+
+## 💡 What’s next
+
+I’m currently mulling over ideas for my next build. If you’ve ever said “I wish there was a simple web app that could just ___,” tell me. I like turning that sentence into something real.
+
+## 🎓 Still leveling up
+
+- Going deeper on React patterns: state management, routing, data flow, performance
+- Getting smoother with TypeScript and Tailwind CSS in production code
+- Continuing to improve accessibility and real-world usability across devices (not just “it runs on my machine”)
 
 ---
 
